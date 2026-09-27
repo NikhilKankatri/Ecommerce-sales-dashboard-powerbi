@@ -39,7 +39,7 @@ The dashboard provides an interactive view of:
 
 ## Dashboard Preview
 
-![E-Commerce Sales Dashboard](dashboard-preview.png)
+![E-Commerce Sales Dashboard](dashboard.png)
 
 ## Project Demo
 
